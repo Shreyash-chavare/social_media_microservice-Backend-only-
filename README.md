@@ -12,7 +12,7 @@ Logging & error handling per service
 🎯 Goal: Learn how production-grade microservices are designed and managed
 
 🧠 Architecture:
-   
+    
 
 🧩 Microservices Included:
   Service Name	          Description

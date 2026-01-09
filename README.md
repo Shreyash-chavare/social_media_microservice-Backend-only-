@@ -12,15 +12,16 @@ Logging & error handling per service
 🎯 Goal: Learn how production-grade microservices are designed and managed
 
 🧠 Architecture:
-    
+   ![Microservice Architecture](./microservice%20architecture.drawio.png)
+
 
 🧩 Microservices Included:
   Service Name	          Description
 🧑 Identity Service	      User auth, JWT, token management
-📝 Post Service         	Create & manage posts
-📸 Media Service         	Media upload handling
-🔍 Search Service	        Search indexing & queries
-🌐 API Gateway	          Single entry point
+📝 Post Service           Create & manage posts
+📸 Media Service          Media upload handling
+🔍 Search Service	       Search indexing & queries
+🌐 API Gateway	           Single entry point
 
 🛠 Tech Stack
 Node.js

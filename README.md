@@ -55,5 +55,3 @@ This project was built to **deeply understand how real-world microservices work*
 - Docker & Docker Compose
 - Kubernetes deployment
 - Circuit breaker pattern
-- Centralized logging
-- Swagger / OpenAPI documentation

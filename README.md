@@ -1,38 +1,59 @@
-🚀 Social Media Microservices Backend:
-A backend-only social media system built using Node.js microservices architecture, designed to understand service isolation, scalability, event-driven communication, and API Gateway patterns.
+# 🚀 Social Media Microservices Backend
 
-📌 Why this project?
-This project was built to deeply understand how real-world microservices work, including:
-Independent services & databases
-API Gateway pattern
-Authentication across services
-Event-driven communication using RabbitMQ
-Logging & error handling per service
+A **backend-only social media system** built using **Node.js microservices architecture**, designed to understand **service isolation, scalability, event-driven communication, and API Gateway patterns**.
 
-🎯 Goal: Learn how production-grade microservices are designed and managed
+---
 
-🧠 Architecture:
-   ![Microservice Architecture](./microservice%20architecture.drawio.png)
+## 📌 Why this project?
 
+This project was built to **deeply understand how real-world microservices work**, including:
 
-🧩 Microservices Included:
-  Service Name	          Description
-🧑 Identity Service	      User auth, JWT, token management
-📝 Post Service           Create & manage posts
-📸 Media Service          Media upload handling
-🔍 Search Service	       Search indexing & queries
-🌐 API Gateway	           Single entry point
+- Independent services & databases  
+- API Gateway pattern  
+- Authentication across services  
+- Event-driven communication using **RabbitMQ**  
+- Logging & error handling per service  
 
-🛠 Tech Stack
-Node.js
-Express.js
-MongoDB (Mongoose)
-RabbitMQ
-JWT for Auth.
-Winston Logger
-API Gateway Pattern
+🎯 **Goal:** Learn how **production-grade microservices** are designed and managed.
 
-🚧 Future Improvements
-Docker & Docker Compose
-Kubernetes deployment
-Circuit breaker pattern
+---
+
+## 🧠 Architecture
+
+![Microservice Architecture](./microservice%20architecture.drawio.png)
+
+> This architecture was designed to ensure **loose coupling**, **scalability**, and **clear separation of responsibilities** between services.
+
+---
+
+## 🧩 Microservices Included
+
+| Service Name | Description |
+|-------------|------------|
+| 🧑 Identity Service | User authentication, JWT, token management |
+| 📝 Post Service | Create & manage posts |
+| 📸 Media Service | Media upload handling |
+| 🔍 Search Service | Search indexing & queries |
+| 🌐 API Gateway | Single entry point for all services |
+
+---
+
+## 🛠 Tech Stack
+
+- Node.js
+- Express.js
+- MongoDB (Mongoose)
+- RabbitMQ
+- JWT Authentication
+- Winston Logger
+- API Gateway Pattern
+
+---
+
+## 🚧 Future Improvements
+
+- Docker & Docker Compose
+- Kubernetes deployment
+- Circuit breaker pattern
+- Centralized logging
+- Swagger / OpenAPI documentation

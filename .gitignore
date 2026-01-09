@@ -1,0 +1,11 @@
+api-gateway/node_modules
+api-gateway/.env
+identity-service/node_modules
+identity-service/.env
+media-service/node_modules
+media-service/.env
+Post-service/node_modules
+Post-service/.env
+search-service/node_modules
+search-search/.env
+

@@ -1,0 +1,161 @@
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T12:21:53.131Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T12:21:53.166Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T12:27:13.808Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T12:27:13.840Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T12:31:58.131Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T12:31:58.160Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T12:32:01.202Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T12:32:01.230Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T12:32:10.092Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T12:32:10.130Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T12:32:15.737Z"}
+{"level":"error","message":"No file found. pls add a file and try again","service":"identity-service","timestamp":"2026-01-02T12:32:15.739Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T12:33:48.538Z"}
+{"level":"error","message":"No file found. pls add a file and try again","service":"identity-service","timestamp":"2026-01-02T12:33:48.540Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T12:42:48.364Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T12:42:48.389Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T12:42:54.616Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T12:42:54.644Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T12:42:59.012Z"}
+{"level":"info","message":"file name: Untitled-2025-08-12-0824.excalidraw.png , fileType: image/png","service":"identity-service","timestamp":"2026-01-02T12:42:59.014Z"}
+{"level":"info","message":"starting uploading to cloadinary...","service":"identity-service","timestamp":"2026-01-02T12:42:59.015Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","6":":","exception":{"http_code":401,"message":"Invalid Signature d45da37c4b8ea07e7f55c5f5b309589a370b443d. String to sign - 'timestamp=1767357779'.","name":"Error"},"http_code":401,"level":"error","message":"Invalid Signature d45da37c4b8ea07e7f55c5f5b309589a370b443d. String to sign - 'timestamp=1767357779'.","name":"Error","service":"identity-service","timestamp":"2026-01-02T12:43:02.205Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T12:44:15.418Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T12:44:15.445Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T12:44:16.416Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T12:44:16.443Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T12:44:25.180Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T12:44:25.205Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T12:44:44.451Z"}
+{"level":"info","message":"file name: Untitled-2025-08-12-0824.excalidraw.png , fileType: image/png","service":"identity-service","timestamp":"2026-01-02T12:44:44.453Z"}
+{"level":"info","message":"starting uploading to cloadinary...","service":"identity-service","timestamp":"2026-01-02T12:44:44.454Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","6":":","exception":{"http_code":401,"message":"Invalid Signature 68b3ee7d75fce5745d798fbb482968108ca5c635. String to sign - 'timestamp=1767357884'.","name":"Error"},"http_code":401,"level":"error","message":"Invalid Signature 68b3ee7d75fce5745d798fbb482968108ca5c635. String to sign - 'timestamp=1767357884'.","name":"Error","service":"identity-service","timestamp":"2026-01-02T12:44:47.476Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T12:45:37.583Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T12:45:37.606Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T12:46:01.258Z"}
+{"level":"info","message":"file name: Untitled-2025-08-12-0824.excalidraw.png , fileType: image/png","service":"identity-service","timestamp":"2026-01-02T12:46:01.259Z"}
+{"level":"info","message":"starting uploading to cloadinary...","service":"identity-service","timestamp":"2026-01-02T12:46:01.261Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","6":":","exception":{"http_code":401,"message":"Invalid Signature b8d29e898e6930fde56dc52b1800e9a3a5ab8fc3. String to sign - 'timestamp=1767357961'.","name":"Error"},"http_code":401,"level":"error","message":"Invalid Signature b8d29e898e6930fde56dc52b1800e9a3a5ab8fc3. String to sign - 'timestamp=1767357961'.","name":"Error","service":"identity-service","timestamp":"2026-01-02T12:46:04.094Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T12:47:27.902Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T12:47:27.924Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T12:47:36.800Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T12:47:36.826Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T12:47:42.161Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T12:47:42.190Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T12:47:47.559Z"}
+{"level":"info","message":"file name: Untitled-2025-08-12-0824.excalidraw.png , fileType: image/png","service":"identity-service","timestamp":"2026-01-02T12:47:47.561Z"}
+{"level":"info","message":"starting uploading to cloadinary...","service":"identity-service","timestamp":"2026-01-02T12:47:47.562Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","6":":","exception":{"http_code":401,"message":"Invalid Signature 18c2d46d04609419a79c5c994ccb58172b851d54. String to sign - 'timestamp=1767358067'.","name":"Error"},"http_code":401,"level":"error","message":"Invalid Signature 18c2d46d04609419a79c5c994ccb58172b851d54. String to sign - 'timestamp=1767358067'.","name":"Error","service":"identity-service","timestamp":"2026-01-02T12:47:50.349Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T13:00:13.965Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T13:00:13.991Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T13:00:22.042Z"}
+{"level":"info","message":"file name: Untitled-2025-08-12-0824.excalidraw.png , fileType: image/png","service":"identity-service","timestamp":"2026-01-02T13:00:22.043Z"}
+{"level":"info","message":"starting uploading to cloadinary...","service":"identity-service","timestamp":"2026-01-02T13:00:22.044Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","6":":","exception":{"http_code":400,"message":"Empty file","name":"Error"},"http_code":400,"level":"error","message":"Empty file","name":"Error","service":"identity-service","timestamp":"2026-01-02T13:00:24.852Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T13:01:33.089Z"}
+{"level":"info","message":"file name: Screenshot 2023-08-08 111927.png , fileType: image/png","service":"identity-service","timestamp":"2026-01-02T13:01:33.090Z"}
+{"level":"info","message":"starting uploading to cloadinary...","service":"identity-service","timestamp":"2026-01-02T13:01:33.092Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T13:08:56.659Z"}
+{"level":"info","message":"file name: Screenshot 2023-08-08 111927.png , fileType: image/png","service":"identity-service","timestamp":"2026-01-02T13:08:56.661Z"}
+{"level":"info","message":"starting uploading to cloadinary...","service":"identity-service","timestamp":"2026-01-02T13:08:56.662Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T13:09:36.332Z"}
+{"level":"info","message":"file name: Screenshot 2023-08-08 111927.png , fileType: image/png","service":"identity-service","timestamp":"2026-01-02T13:09:36.333Z"}
+{"level":"info","message":"starting uploading to cloadinary...","service":"identity-service","timestamp":"2026-01-02T13:09:36.334Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T13:11:43.336Z"}
+{"level":"info","message":"file name: Screenshot 2023-08-08 111927.png , fileType: image/png","service":"identity-service","timestamp":"2026-01-02T13:11:43.338Z"}
+{"level":"info","message":"starting uploading to cloadinary...","service":"identity-service","timestamp":"2026-01-02T13:11:43.338Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T13:15:51.487Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T13:15:51.523Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T13:15:56.885Z"}
+{"level":"info","message":"file name: Screenshot 2023-08-08 111927.png , fileType: image/png","service":"identity-service","timestamp":"2026-01-02T13:15:56.886Z"}
+{"level":"info","message":"starting uploading to cloadinary...","service":"identity-service","timestamp":"2026-01-02T13:15:56.888Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T13:19:23.464Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T13:19:23.489Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T13:19:27.708Z"}
+{"level":"info","message":"file name: Screenshot 2023-08-08 111927.png , fileType: image/png","service":"identity-service","timestamp":"2026-01-02T13:19:27.709Z"}
+{"level":"info","message":"starting uploading to cloadinary...","service":"identity-service","timestamp":"2026-01-02T13:19:27.709Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T13:30:11.912Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T13:30:11.958Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T13:31:38.372Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T13:31:38.399Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T13:32:03.785Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T13:32:03.812Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T13:32:05.133Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T13:32:05.161Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T13:32:13.279Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T13:32:13.312Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T13:32:48.786Z"}
+{"level":"info","message":"file name: Screenshot 2023-08-08 111927.png , fileType: image/png","service":"identity-service","timestamp":"2026-01-02T13:32:48.787Z"}
+{"level":"info","message":"starting uploading to cloadinary...","service":"identity-service","timestamp":"2026-01-02T13:32:48.788Z"}
+{"level":"info","message":"Uploaded to cloudinary successfull. public Id-b9twyt65ffef1r0idnza","service":"identity-service","timestamp":"2026-01-02T13:33:10.622Z"}
+{"level":"error","message":"Error in creating media!","service":"identity-service","timestamp":"2026-01-02T13:33:10.636Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T13:38:18.091Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T13:38:18.119Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T13:38:19.835Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T13:38:19.864Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T13:38:22.443Z"}
+{"level":"info","message":"file name: Screenshot 2023-08-08 111927.png , fileType: image/png","service":"identity-service","timestamp":"2026-01-02T13:38:22.445Z"}
+{"level":"info","message":"starting uploading to cloadinary...","service":"identity-service","timestamp":"2026-01-02T13:38:22.446Z"}
+{"level":"info","message":"Uploaded to cloudinary successfull. public Id-lcujqjiotsyqf1xaqvwz","service":"identity-service","timestamp":"2026-01-02T13:39:23.536Z"}
+{"_message":"Media validation failed","errors":{"mimeType":{"kind":"required","message":"Path `mimeType` is required.","name":"ValidatorError","path":"mimeType","properties":{"message":"Path `mimeType` is required.","path":"mimeType","type":"required"}}},"level":"error","message":"Error in creating media! Media validation failed: mimeType: Path `mimeType` is required.","service":"identity-service","stack":"ValidationError: Media validation failed: mimeType: Path `mimeType` is required.\n    at Document.invalidate (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\document.js:3379:32)\n    at validatePath (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\document.js:3154:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Promise.all (index 0)\n    at async model.$__validate (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\document.js:3095:3)\n    at async model.validate (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\document.js:2672:5)\n    at async model.validateBeforeSave (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\plugins\\validateBeforeSave.js:34:7)\n    at async Kareem.execPre (D:\\Nodejs\\microservices\\media-service\\node_modules\\kareem\\index.js:65:24)\n    at async model.$__save (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\model.js:369:5)\n    at async model.save (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\model.js:609:5)","timestamp":"2026-01-02T13:39:23.561Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T13:40:37.989Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T13:40:38.012Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T13:40:43.649Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T13:40:43.679Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T13:40:48.402Z"}
+{"level":"info","message":"file name: Screenshot 2023-08-08 111927.png , fileType: undefined","service":"identity-service","timestamp":"2026-01-02T13:40:48.403Z"}
+{"level":"info","message":"starting uploading to cloadinary...","service":"identity-service","timestamp":"2026-01-02T13:40:48.404Z"}
+{"level":"info","message":"Uploaded to cloudinary successfull. public Id-cwnnsttdoly1kabc1ays","service":"identity-service","timestamp":"2026-01-02T13:41:02.160Z"}
+{"_message":"Media validation failed","errors":{"mimeType":{"kind":"required","message":"Path `mimeType` is required.","name":"ValidatorError","path":"mimeType","properties":{"message":"Path `mimeType` is required.","path":"mimeType","type":"required"}}},"level":"error","message":"Error in creating media! Media validation failed: mimeType: Path `mimeType` is required.","service":"identity-service","stack":"ValidationError: Media validation failed: mimeType: Path `mimeType` is required.\n    at Document.invalidate (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\document.js:3379:32)\n    at validatePath (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\document.js:3154:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Promise.all (index 0)\n    at async model.$__validate (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\document.js:3095:3)\n    at async model.validate (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\document.js:2672:5)\n    at async model.validateBeforeSave (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\plugins\\validateBeforeSave.js:34:7)\n    at async Kareem.execPre (D:\\Nodejs\\microservices\\media-service\\node_modules\\kareem\\index.js:65:24)\n    at async model.$__save (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\model.js:369:5)\n    at async model.save (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\model.js:609:5)","timestamp":"2026-01-02T13:41:02.176Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T13:41:55.834Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T13:41:55.872Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-02T13:42:16.433Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T13:42:16.465Z"}
+{"level":"info","message":"uploadMedia endpoint hit...","service":"identity-service","timestamp":"2026-01-02T13:42:20.552Z"}
+{"level":"info","message":"file name: Screenshot 2023-08-08 111927.png , fileType: image/png","service":"identity-service","timestamp":"2026-01-02T13:42:20.553Z"}
+{"level":"info","message":"starting uploading to cloadinary...","service":"identity-service","timestamp":"2026-01-02T13:42:20.554Z"}
+{"level":"info","message":"Uploaded to cloudinary successfull. public Id-n2gru2ybn0btlcwf9yqg","service":"identity-service","timestamp":"2026-01-02T13:42:50.848Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-04T01:33:42.664Z"}
+{"level":"error","message":"error while connecting to rabbitMq channel.assertExchange is not a function","service":"identity-service","stack":"TypeError: channel.assertExchange is not a function\n    at connectTorabbitMq (file:///D:/Nodejs/microservices/media-service/src/utils/rabbitmq.js:13:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (file:///D:/Nodejs/microservices/media-service/src/server.js:26:9)","timestamp":"2026-01-04T01:33:42.708Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-04T01:36:24.675Z"}
+{"level":"error","message":"error while connecting to rabbitMq channel.assertExchange is not a function","service":"identity-service","stack":"TypeError: channel.assertExchange is not a function\n    at connectTorabbitMq (file:///D:/Nodejs/microservices/media-service/src/utils/rabbitmq.js:13:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (file:///D:/Nodejs/microservices/media-service/src/server.js:26:9)","timestamp":"2026-01-04T01:36:24.685Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-04T01:39:08.622Z"}
+{"level":"error","message":"error while connecting to rabbitMq awconnection is not defined","service":"identity-service","stack":"ReferenceError: awconnection is not defined\n    at connectTorabbitMq (file:///D:/Nodejs/microservices/media-service/src/utils/rabbitmq.js:12:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (file:///D:/Nodejs/microservices/media-service/src/server.js:26:9)","timestamp":"2026-01-04T01:39:08.633Z"}
+{"level":"error","message":"error while connecting to rabbitMq awconnection is not defined","service":"identity-service","stack":"ReferenceError: awconnection is not defined\n    at connectTorabbitMq (file:///D:/Nodejs/microservices/media-service/src/utils/rabbitmq.js:12:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async consumeEvent (file:///D:/Nodejs/microservices/media-service/src/utils/rabbitmq.js:36:9)\n    at async startServer (file:///D:/Nodejs/microservices/media-service/src/server.js:27:9)","timestamp":"2026-01-04T01:39:08.644Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-04T01:39:10.785Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-04T01:40:10.992Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-04T01:40:14.077Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-04T01:40:15.271Z"}
+{"level":"info","message":"connected to rabbitMq","service":"identity-service","timestamp":"2026-01-04T01:40:15.290Z"}
+{"level":"info","message":"subscribed to event : post.deleted","service":"identity-service","timestamp":"2026-01-04T01:40:15.514Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-04T01:40:15.518Z"}
+{"kind":"ObjectId","level":"error","message":"event error Cast to ObjectId failed for value \"{ _id: { '$in': undefined } }\" (type Object) at path \"_id\" for model \"Media\"","path":"_id","reason":{},"service":"identity-service","stack":"CastError: Cast to ObjectId failed for value \"{ _id: { '$in': undefined } }\" (type Object) at path \"_id\" for model \"Media\"\n    at SchemaObjectId.cast (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\schema\\objectId.js:253:11)\n    at SchemaType.applySetters (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\schemaType.js:1280:12)\n    at SchemaType.castForQuery (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\schemaType.js:1706:17)\n    at cast (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\cast.js:315:34)\n    at Query.cast (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\query.js:5025:12)\n    at Query._castConditions (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\query.js:2374:10)\n    at model.Query._findOne (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\query.js:2704:8)\n    at model.Query.exec (D:\\Nodejs\\microservices\\media-service\\node_modules\\mongoose\\lib\\query.js:4637:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async deleteResponse (file:///D:/Nodejs/microservices/media-service/src/events/consumer.js:7:25)","stringValue":"\"{ _id: { '$in': undefined } }\"","timestamp":"2026-01-04T02:00:02.034Z","value":{"_id":{}},"valueType":"Object"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-04T02:01:03.581Z"}
+{"level":"info","message":"connected to rabbitMq","service":"identity-service","timestamp":"2026-01-04T02:01:03.592Z"}
+{"level":"info","message":"subscribed to event : post.deleted","service":"identity-service","timestamp":"2026-01-04T02:01:03.619Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-04T02:01:03.623Z"}
+{"level":"info","message":"processed delete media for postid : 6959ca1070d93aa36ea0edff ","service":"identity-service","timestamp":"2026-01-04T02:02:30.948Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-04T02:12:22.147Z"}
+{"level":"info","message":"connected to rabbitMq","service":"identity-service","timestamp":"2026-01-04T02:12:22.165Z"}
+{"level":"info","message":"subscribed to event : post.deleted","service":"identity-service","timestamp":"2026-01-04T02:12:22.185Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-04T02:12:22.189Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-04T02:12:25.665Z"}
+{"level":"info","message":"connected to rabbitMq","service":"identity-service","timestamp":"2026-01-04T02:12:25.676Z"}
+{"level":"info","message":"subscribed to event : post.deleted","service":"identity-service","timestamp":"2026-01-04T02:12:25.694Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-04T02:12:25.699Z"}
+{"level":"info","message":"media deleted of id: n2gru2ybn0btlcwf9yqg","service":"identity-service","timestamp":"2026-01-04T02:13:50.287Z"}
+{"level":"info","message":"deleted media 6957cb5a96668a7bd11c25ea associated with post : 6959ccbc70d93aa36ea0ee08","service":"identity-service","timestamp":"2026-01-04T02:13:53.005Z"}
+{"level":"info","message":"processed delete media for postid : 6959ccbc70d93aa36ea0ee08 ","service":"identity-service","timestamp":"2026-01-04T02:13:53.007Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-04T06:59:16.532Z"}
+{"level":"info","message":"connected to rabbitMq","service":"identity-service","timestamp":"2026-01-04T06:59:16.571Z"}
+{"level":"info","message":"subscribed to event : post.deleted","service":"identity-service","timestamp":"2026-01-04T06:59:16.599Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-04T06:59:16.605Z"}
+{"level":"info","message":"processed delete media for postid : 6959d188808bbf33bb728f05 ","service":"identity-service","timestamp":"2026-01-04T07:05:51.393Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-05T12:10:31.727Z"}
+{"level":"info","message":"connected to rabbitMq","service":"identity-service","timestamp":"2026-01-05T12:10:31.808Z"}
+{"level":"info","message":"subscribed to event : post.deleted","service":"identity-service","timestamp":"2026-01-05T12:10:31.980Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-05T12:10:31.985Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-06T18:59:39.282Z"}
+{"level":"info","message":"connected to rabbitMq","service":"identity-service","timestamp":"2026-01-06T18:59:39.291Z"}
+{"level":"info","message":"subscribed to event : post.deleted","service":"identity-service","timestamp":"2026-01-06T18:59:39.309Z"}
+{"level":"info","message":"media server running on port :3003","service":"identity-service","timestamp":"2026-01-06T18:59:39.316Z"}

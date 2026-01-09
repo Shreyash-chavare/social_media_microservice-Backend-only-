@@ -1,0 +1,304 @@
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-29T14:46:21.096Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-29T14:46:21.144Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-29T15:00:31.043Z"}
+{"level":"info","message":"Request body : undefined","service":"identity-service","timestamp":"2025-12-29T15:00:31.045Z"}
+{"level":"error","message":"TypeError: redisClient.consume is not a function\n    at file:///D:/Nodejs/microservices/identity-service/src/server.js:38:17\n    at Layer.handleRequest (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:342:13)\n    at D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:297:9\n    at processParams (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:582:12)\n    at next (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:291:5)\n    at file:///D:/Nodejs/microservices/identity-service/src/server.js:27:5\n    at Layer.handleRequest (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:342:13)\n    at D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:297:9","service":"identity-service","timestamp":"2025-12-29T15:00:31.048Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-29T15:02:33.787Z"}
+{"level":"info","message":"Request body : undefined","service":"identity-service","timestamp":"2025-12-29T15:02:33.789Z"}
+{"level":"error","message":"TypeError: redisClient.consume is not a function\n    at file:///D:/Nodejs/microservices/identity-service/src/server.js:38:17\n    at Layer.handleRequest (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:342:13)\n    at D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:297:9\n    at processParams (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:582:12)\n    at next (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:291:5)\n    at file:///D:/Nodejs/microservices/identity-service/src/server.js:27:5\n    at Layer.handleRequest (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:342:13)\n    at D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:297:9","service":"identity-service","timestamp":"2025-12-29T15:02:33.790Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-29T15:04:42.795Z"}
+{"level":"info","message":"Request body : undefined","service":"identity-service","timestamp":"2025-12-29T15:04:42.797Z"}
+{"level":"error","message":"TypeError: redisClient.consume is not a function\n    at file:///D:/Nodejs/microservices/identity-service/src/server.js:38:17\n    at Layer.handleRequest (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:342:13)\n    at D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:297:9\n    at processParams (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:582:12)\n    at next (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:291:5)\n    at file:///D:/Nodejs/microservices/identity-service/src/server.js:27:5\n    at Layer.handleRequest (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:342:13)\n    at D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:297:9","service":"identity-service","timestamp":"2025-12-29T15:04:42.799Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-29T15:05:32.639Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-29T15:05:32.641Z"}
+{"level":"error","message":"TypeError: redisClient.consume is not a function\n    at file:///D:/Nodejs/microservices/identity-service/src/server.js:38:17\n    at Layer.handleRequest (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:342:13)\n    at D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:297:9\n    at processParams (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:582:12)\n    at next (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:291:5)\n    at file:///D:/Nodejs/microservices/identity-service/src/server.js:27:5\n    at Layer.handleRequest (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:342:13)\n    at D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:297:9","service":"identity-service","timestamp":"2025-12-29T15:05:32.643Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-29T15:07:56.015Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-29T15:07:56.061Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-29T15:08:01.284Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-29T15:08:01.289Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-29T15:08:01.309Z"}
+{"level":"error","message":"user registration error registrationValidation is not defined","service":"identity-service","stack":"ReferenceError: registrationValidation is not defined\n    at Registration (file:///D:/Nodejs/microservices/identity-service/src/controllers/identity-controller.js:12:19)\n    at Layer.handleRequest (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:295:15\n    at processParams (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:582:12)\n    at next (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:291:5)\n    at Function.handle (D:\\Nodejs\\microservices\\identity-service\\node_modules\\router\\index.js:186:3)","timestamp":"2025-12-29T15:08:01.314Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-29T15:12:02.550Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-29T15:12:02.603Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-29T15:12:07.253Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-29T15:12:07.254Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-29T15:12:07.273Z"}
+{"_message":"User validation failed","errors":{"username":{"kind":"required","message":"Path `username` is required.","name":"ValidatorError","path":"username","properties":{"message":"Path `username` is required.","path":"username","type":"required"}}},"level":"error","message":"user registration error User validation failed: username: Path `username` is required.","service":"identity-service","stack":"ValidationError: User validation failed: username: Path `username` is required.\n    at Document.invalidate (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3377:32)\n    at validatePath (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3152:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Promise.all (index 0)\n    at async model.$__validate (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3093:3)\n    at async model.validate (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:2670:5)\n    at async model.validateBeforeSave (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\plugins\\validateBeforeSave.js:34:7)\n    at async Kareem.execPre (D:\\Nodejs\\microservices\\identity-service\\node_modules\\kareem\\index.js:65:24)\n    at async model.$__save (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:369:5)\n    at async model.save (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:609:5)","timestamp":"2025-12-29T15:12:07.387Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-29T15:14:56.483Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-29T15:14:56.485Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-29T15:14:56.489Z"}
+{"_message":"User validation failed","errors":{"username":{"kind":"required","message":"Path `username` is required.","name":"ValidatorError","path":"username","properties":{"message":"Path `username` is required.","path":"username","type":"required"}}},"level":"error","message":"user registration error User validation failed: username: Path `username` is required.","service":"identity-service","stack":"ValidationError: User validation failed: username: Path `username` is required.\n    at Document.invalidate (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3377:32)\n    at validatePath (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3152:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Promise.all (index 0)\n    at async model.$__validate (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3093:3)\n    at async model.validate (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:2670:5)\n    at async model.validateBeforeSave (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\plugins\\validateBeforeSave.js:34:7)\n    at async Kareem.execPre (D:\\Nodejs\\microservices\\identity-service\\node_modules\\kareem\\index.js:65:24)\n    at async model.$__save (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:369:5)\n    at async model.save (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:609:5)","timestamp":"2025-12-29T15:14:56.509Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-29T15:15:31.387Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-29T15:15:31.389Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-29T15:15:31.394Z"}
+{"level":"error","message":"user registration error next is not a function","service":"identity-service","stack":"TypeError: next is not a function\n    at model.<anonymous> (file:///D:/Nodejs/microservices/identity-service/src/models/user.js:36:21)\n    at async Kareem.execPre (D:\\Nodejs\\microservices\\identity-service\\node_modules\\kareem\\index.js:65:24)\n    at async model.$__save (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:369:5)\n    at async model.save (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:609:5)\n    at async Registration (file:///D:/Nodejs/microservices/identity-service/src/controllers/identity-controller.js:37:7)","timestamp":"2025-12-29T15:15:31.424Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-29T15:21:05.406Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-29T15:21:05.469Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-29T15:21:09.442Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-29T15:21:09.444Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-29T15:21:09.454Z"}
+{"buffer":{"data":[105,82,156,101,75,0,146,55,23,173,105,249],"type":"Buffer"},"level":"warn","message":"Registration completed","service":"identity-service","timestamp":"2025-12-29T15:21:09.741Z"}
+{"0":" ","1":"r","2":"e","3":"a","4":"s","5":"o","6":"n","7":":","8":" ","level":"error","message":"unhandled Rejection at","service":"identity-service","timestamp":"2025-12-29T15:21:09.757Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-29T15:23:38.040Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-29T15:23:38.086Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-29T15:23:48.200Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-29T15:23:48.205Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-29T15:23:48.223Z"}
+{"buffer":{"data":[105,82,157,4,246,236,18,205,220,218,228,67],"type":"Buffer"},"level":"warn","message":"Registration completed","service":"identity-service","timestamp":"2025-12-29T15:23:48.629Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","level":"error","message":"unhandled Rejection at","service":"identity-service","timestamp":"2025-12-29T15:23:48.653Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T07:42:44.333Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T07:42:44.390Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T08:03:31.638Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T08:03:31.692Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-30T08:03:40.199Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T08:03:40.201Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-30T08:03:40.215Z"}
+{"level":"warn","message":"User already exist..","service":"identity-service","timestamp":"2025-12-30T08:03:40.324Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-30T08:03:57.993Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T08:03:57.995Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-30T08:03:57.999Z"}
+{"buffer":{"data":[105,83,135,110,116,148,241,174,181,120,143,103],"type":"Buffer"},"level":"warn","message":"Registration completed","service":"identity-service","timestamp":"2025-12-30T08:03:58.299Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","level":"error","message":"unhandled Rejection at","service":"identity-service","timestamp":"2025-12-30T08:03:58.307Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-30T08:05:43.302Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T08:05:43.304Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-30T08:05:43.308Z"}
+{"level":"warn","message":"User already exist..","service":"identity-service","timestamp":"2025-12-30T08:05:43.318Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-30T08:05:52.878Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T08:05:52.879Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-30T08:05:52.882Z"}
+{"level":"warn","message":"User already exist..","service":"identity-service","timestamp":"2025-12-30T08:05:52.892Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-30T08:05:57.991Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T08:05:57.992Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-30T08:05:57.996Z"}
+{"buffer":{"data":[105,83,135,230,116,148,241,174,181,120,143,108],"type":"Buffer"},"level":"warn","message":"Registration completed","service":"identity-service","timestamp":"2025-12-30T08:05:58.210Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","level":"error","message":"unhandled Rejection at","service":"identity-service","timestamp":"2025-12-30T08:05:58.214Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T08:06:08.236Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T08:06:08.287Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-30T08:06:11.983Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T08:06:11.986Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-30T08:06:11.999Z"}
+{"level":"warn","message":"User already exist..","service":"identity-service","timestamp":"2025-12-30T08:06:12.076Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-30T08:06:21.117Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T08:06:21.119Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-30T08:06:21.124Z"}
+{"buffer":{"data":[105,83,135,253,229,202,60,225,210,204,152,251],"type":"Buffer"},"level":"warn","message":"Registration completed","service":"identity-service","timestamp":"2025-12-30T08:06:21.399Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","level":"error","message":"unhandled Rejection at","service":"identity-service","timestamp":"2025-12-30T08:06:21.407Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-30T08:07:03.692Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T08:07:03.693Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-30T08:07:03.697Z"}
+{"level":"warn","message":"User already exist..","service":"identity-service","timestamp":"2025-12-30T08:07:03.709Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T08:07:15.305Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T08:07:15.358Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-30T08:07:26.939Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T08:07:26.942Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-30T08:07:26.957Z"}
+{"level":"warn","message":"User already exist..","service":"identity-service","timestamp":"2025-12-30T08:07:27.035Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-30T08:07:34.764Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T08:07:34.765Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-30T08:07:34.769Z"}
+{"buffer":{"data":[105,83,136,70,186,243,254,120,151,232,59,232],"type":"Buffer"},"level":"warn","message":"Registration completed","service":"identity-service","timestamp":"2025-12-30T08:07:35.036Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","level":"error","message":"unhandled Rejection at","service":"identity-service","timestamp":"2025-12-30T08:07:35.043Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T08:09:06.630Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T08:09:06.675Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-30T08:09:16.423Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T08:09:16.426Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-30T08:09:16.442Z"}
+{"level":"warn","message":"User already exist..","service":"identity-service","timestamp":"2025-12-30T08:09:16.516Z"}
+{"level":"info","message":"Received  POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-30T08:09:23.439Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T08:09:23.441Z"}
+{"level":"info","message":"Registration endpoint hit...","service":"identity-service","timestamp":"2025-12-30T08:09:23.446Z"}
+{"buffer":{"data":[105,83,136,179,99,142,33,172,151,34,124,28],"type":"Buffer"},"level":"warn","message":"Registration completed","service":"identity-service","timestamp":"2025-12-30T08:09:23.720Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","level":"error","message":"unhandled Rejection at","service":"identity-service","timestamp":"2025-12-30T08:09:23.726Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T13:55:05.779Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T13:55:05.825Z"}
+{"level":"info","message":"Received  POST request to /v1/auth/login","service":"identity-service","timestamp":"2025-12-30T13:55:20.046Z"}
+{"level":"info","message":"Request body : undefined","service":"identity-service","timestamp":"2025-12-30T13:55:20.048Z"}
+{"level":"info","message":"Received  POST request to /v1/auth/login","service":"identity-service","timestamp":"2025-12-30T13:56:38.574Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T13:56:38.575Z"}
+{"level":"info","message":"Received  POST request to /v1/auth/login","service":"identity-service","timestamp":"2025-12-30T13:56:49.869Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T13:56:49.870Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T14:04:50.284Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T14:04:50.339Z"}
+{"level":"info","message":"Received  POST request to /v1/auth/login","service":"identity-service","timestamp":"2025-12-30T14:04:54.680Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:04:54.682Z"}
+{"level":"info","message":"Received  POST request to /v1/auth/login","service":"identity-service","timestamp":"2025-12-30T14:04:57.240Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:04:57.241Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:05:24.693Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:05:24.697Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:05:24.704Z"}
+{"level":"warn","message":"invalid user...","service":"identity-service","timestamp":"2025-12-30T14:05:24.763Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:05:54.261Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:05:54.263Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:05:54.268Z"}
+{"level":"error","message":"user login error User.verification is not a function","service":"identity-service","stack":"TypeError: User.verification is not a function\n    at Login (file:///D:/Nodejs/microservices/identity-service/src/controllers/identity-controller.js:78:43)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-12-30T14:05:54.305Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:07:45.422Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:07:45.423Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:07:45.428Z"}
+{"level":"warn","message":"invalid user...","service":"identity-service","timestamp":"2025-12-30T14:07:45.436Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:08:00.779Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:08:00.780Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:08:00.783Z"}
+{"level":"error","message":"user login error User.verification is not a function","service":"identity-service","stack":"TypeError: User.verification is not a function\n    at Login (file:///D:/Nodejs/microservices/identity-service/src/controllers/identity-controller.js:78:43)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-12-30T14:08:00.794Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T14:19:34.622Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T14:19:34.675Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:19:40.678Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:19:40.680Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:19:40.752Z"}
+{"level":"error","message":"user login error Cannot read properties of undefined (reading 'details')","service":"identity-service","stack":"TypeError: Cannot read properties of undefined (reading 'details')\n    at Login (file:///D:/Nodejs/microservices/identity-service/src/controllers/identity-controller.js:81:50)","timestamp":"2025-12-30T14:19:41.014Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:22:05.762Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:22:05.764Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:22:05.769Z"}
+{"code":"ERR_INVALID_ARG_TYPE","level":"error","message":"user login error The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received type number (12345)","service":"identity-service","stack":"TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received type number (12345)\n    at Function.from (node:buffer:319:9)\n    at Object.verify (D:\\Nodejs\\microservices\\identity-service\\node_modules\\argon2\\argon2.cjs:182:24)\n    at Userschema.methods.verification (file:///D:/Nodejs/microservices/identity-service/src/models/user.js:43:29)\n    at Login (file:///D:/Nodejs/microservices/identity-service/src/controllers/identity-controller.js:78:43)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-12-30T14:22:05.790Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:22:46.298Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:22:46.299Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:22:46.303Z"}
+{"code":"ERR_INVALID_ARG_TYPE","level":"error","message":"user login error The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received type number (12345)","service":"identity-service","stack":"TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received type number (12345)\n    at Function.from (node:buffer:319:9)\n    at Object.verify (D:\\Nodejs\\microservices\\identity-service\\node_modules\\argon2\\argon2.cjs:182:24)\n    at Userschema.methods.verification (file:///D:/Nodejs/microservices/identity-service/src/models/user.js:43:29)\n    at Login (file:///D:/Nodejs/microservices/identity-service/src/controllers/identity-controller.js:78:43)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-12-30T14:22:46.316Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:23:24.924Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:23:24.925Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:23:24.928Z"}
+{"level":"error","message":"user login error Cannot read properties of undefined (reading 'details')","service":"identity-service","stack":"TypeError: Cannot read properties of undefined (reading 'details')\n    at Login (file:///D:/Nodejs/microservices/identity-service/src/controllers/identity-controller.js:81:50)","timestamp":"2025-12-30T14:23:25.123Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T14:26:43.974Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T14:26:44.025Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:26:50.175Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:26:50.177Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:26:50.187Z"}
+{"level":"error","message":"user login error err is not defined","service":"identity-service","stack":"ReferenceError: err is not defined\n    at Login (file:///D:/Nodejs/microservices/identity-service/src/controllers/identity-controller.js:81:46)","timestamp":"2025-12-30T14:26:50.438Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T14:27:36.223Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T14:27:36.287Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:27:41.426Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:27:41.429Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:27:41.442Z"}
+{"level":"error","message":"user login error err is not defined","service":"identity-service","stack":"ReferenceError: err is not defined\n    at Login (file:///D:/Nodejs/microservices/identity-service/src/controllers/identity-controller.js:81:46)","timestamp":"2025-12-30T14:27:41.713Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T14:28:58.823Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T14:28:58.875Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:29:02.839Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:29:02.841Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:29:02.850Z"}
+{"0":"I","1":"n","10":"p","11":"a","12":"s","13":"s","14":"w","15":"o","16":"r","17":"d","2":"c","3":"o","4":"r","5":"r","6":"e","7":"c","8":"t","9":" ","level":"warn","message":"Incorrect password..","service":"identity-service","timestamp":"2025-12-30T14:29:03.085Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:29:10.150Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:29:10.152Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:29:10.156Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","level":"error","message":"unhandled Rejection at","service":"identity-service","timestamp":"2025-12-30T14:29:10.361Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:29:32.657Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:29:32.658Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:29:32.662Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","level":"error","message":"unhandled Rejection at","service":"identity-service","timestamp":"2025-12-30T14:29:32.855Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T14:31:32.377Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T14:31:32.432Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:31:35.964Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:31:35.966Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:31:35.980Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","level":"error","message":"unhandled Rejection at","service":"identity-service","timestamp":"2025-12-30T14:31:36.275Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:31:51.979Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:31:51.981Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:31:51.987Z"}
+{"0":"I","1":"n","10":"p","11":"a","12":"s","13":"s","14":"w","15":"o","16":"r","17":"d","2":"c","3":"o","4":"r","5":"r","6":"e","7":"c","8":"t","9":" ","level":"warn","message":"Incorrect password..","service":"identity-service","timestamp":"2025-12-30T14:31:52.216Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:31:57.142Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:31:57.143Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:31:57.148Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","level":"error","message":"unhandled Rejection at","service":"identity-service","timestamp":"2025-12-30T14:31:57.343Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T14:33:08.443Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T14:33:08.488Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:33:16.589Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:33:16.592Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:33:16.609Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","level":"error","message":"unhandled Rejection at","service":"identity-service","timestamp":"2025-12-30T14:33:16.881Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T14:35:23.920Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T14:35:23.964Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:35:30.806Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:35:30.809Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:35:30.820Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","level":"error","message":"unhandled Rejection at","service":"identity-service","timestamp":"2025-12-30T14:35:31.070Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T14:36:52.331Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T14:36:52.383Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:36:55.143Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:36:55.145Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:36:55.156Z"}
+{"level":"error","message":"user login error secretOrPrivateKey must have a value","service":"identity-service","stack":"Error: secretOrPrivateKey must have a value\n    at module.exports [as sign] (D:\\Nodejs\\microservices\\identity-service\\node_modules\\jsonwebtoken\\sign.js:111:20)\n    at generateToken (file:///D:/Nodejs/microservices/identity-service/src/utils/generateToken.js:6:27)\n    at Login (file:///D:/Nodejs/microservices/identity-service/src/controllers/identity-controller.js:88:49)","timestamp":"2025-12-30T14:36:55.373Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T14:38:13.610Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T14:38:13.662Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:38:16.787Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:38:16.789Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:38:16.796Z"}
+{"_message":"Token validation failed","errors":{"expireAt":{"kind":"required","message":"Path `expireAt` is required.","name":"ValidatorError","path":"expireAt","properties":{"message":"Path `expireAt` is required.","path":"expireAt","type":"required"}}},"level":"error","message":"user login error Token validation failed: expireAt: Path `expireAt` is required.","service":"identity-service","stack":"ValidationError: Token validation failed: expireAt: Path `expireAt` is required.\n    at Document.invalidate (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3377:32)\n    at validatePath (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3152:13)\n    at async Promise.all (index 0)\n    at async model.$__validate (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3093:3)\n    at async model.validate (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:2670:5)\n    at async model.validateBeforeSave (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\plugins\\validateBeforeSave.js:34:7)\n    at async Kareem.execPre (D:\\Nodejs\\microservices\\identity-service\\node_modules\\kareem\\index.js:65:24)\n    at async model.$__save (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:369:5)\n    at async model.save (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:609:5)\n    at async D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:2722:9","timestamp":"2025-12-30T14:38:17.085Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T14:39:16.309Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T14:39:16.353Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:39:19.532Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:39:19.535Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:39:19.547Z"}
+{"_message":"Token validation failed","errors":{"expireAt":{"kind":"required","message":"Path `expireAt` is required.","name":"ValidatorError","path":"expireAt","properties":{"message":"Path `expireAt` is required.","path":"expireAt","type":"required"}}},"level":"error","message":"user login error Token validation failed: expireAt: Path `expireAt` is required.","service":"identity-service","stack":"ValidationError: Token validation failed: expireAt: Path `expireAt` is required.\n    at Document.invalidate (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3377:32)\n    at validatePath (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3152:13)\n    at async Promise.all (index 0)\n    at async model.$__validate (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3093:3)\n    at async model.validate (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:2670:5)\n    at async model.validateBeforeSave (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\plugins\\validateBeforeSave.js:34:7)\n    at async Kareem.execPre (D:\\Nodejs\\microservices\\identity-service\\node_modules\\kareem\\index.js:65:24)\n    at async model.$__save (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:369:5)\n    at async model.save (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:609:5)\n    at async D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:2722:9","timestamp":"2025-12-30T14:39:19.851Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T14:40:45.761Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T14:40:45.808Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:40:48.601Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:40:48.603Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:40:48.614Z"}
+{"level":"error","message":"user login error expiresAt is not defined","service":"identity-service","stack":"ReferenceError: expiresAt is not defined\n    at generateToken (file:///D:/Nodejs/microservices/identity-service/src/utils/generateToken.js:13:23)\n    at Login (file:///D:/Nodejs/microservices/identity-service/src/controllers/identity-controller.js:88:49)","timestamp":"2025-12-30T14:40:48.855Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T14:41:12.648Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T14:41:12.699Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:41:15.549Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:41:15.551Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:41:15.560Z"}
+{"_message":"Token validation failed","errors":{"expireeAt":{"kind":"required","message":"Path `expireeAt` is required.","name":"ValidatorError","path":"expireeAt","properties":{"message":"Path `expireeAt` is required.","path":"expireeAt","type":"required"}}},"level":"error","message":"user login error Token validation failed: expireeAt: Path `expireeAt` is required.","service":"identity-service","stack":"ValidationError: Token validation failed: expireeAt: Path `expireeAt` is required.\n    at Document.invalidate (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3377:32)\n    at validatePath (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3152:13)\n    at async Promise.all (index 0)\n    at async model.$__validate (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:3093:3)\n    at async model.validate (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\document.js:2670:5)\n    at async model.validateBeforeSave (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\plugins\\validateBeforeSave.js:34:7)\n    at async Kareem.execPre (D:\\Nodejs\\microservices\\identity-service\\node_modules\\kareem\\index.js:65:24)\n    at async model.$__save (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:369:5)\n    at async model.save (D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:609:5)\n    at async D:\\Nodejs\\microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:2722:9","timestamp":"2025-12-30T14:41:15.816Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-30T14:41:39.434Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-30T14:41:39.489Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-30T14:41:41.863Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-30T14:41:41.865Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-30T14:41:41.872Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2025-12-31T18:19:52.287Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2025-12-31T18:19:52.342Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-31T18:19:59.949Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-31T18:19:59.950Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-31T18:19:59.961Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-31T18:40:07.687Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-31T18:40:07.689Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-31T18:40:07.695Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-31T19:02:09.576Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2025-12-31T19:02:09.579Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-31T19:02:09.583Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2026-01-01T12:46:05.751Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-01T12:46:05.814Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2026-01-01T12:46:40.678Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2026-01-01T12:46:40.681Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2026-01-01T12:46:40.692Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2026-01-01T13:02:56.353Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2026-01-01T13:02:56.355Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2026-01-01T13:02:56.361Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2026-01-02T01:55:13.269Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T01:55:13.304Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2026-01-02T01:56:41.414Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2026-01-02T01:56:41.416Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2026-01-02T01:56:41.423Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2026-01-02T03:21:22.675Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2026-01-02T03:21:22.682Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2026-01-02T03:21:22.694Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2026-01-02T03:44:04.291Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2026-01-02T03:44:04.297Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2026-01-02T03:44:04.302Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2026-01-02T12:22:26.375Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-02T12:22:26.417Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2026-01-02T12:27:57.631Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2026-01-02T12:27:57.633Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2026-01-02T12:27:57.647Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2026-01-02T13:32:25.731Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2026-01-02T13:32:25.734Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2026-01-02T13:32:25.740Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2026-01-04T01:42:00.895Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-04T01:42:00.930Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2026-01-04T01:46:41.990Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2026-01-04T01:46:41.992Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2026-01-04T01:46:41.999Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2026-01-04T06:59:09.880Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-04T06:59:09.925Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2026-01-04T07:00:20.354Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2026-01-04T07:00:20.357Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2026-01-04T07:00:20.373Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2026-01-05T12:10:44.099Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-05T12:10:44.147Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2026-01-05T12:12:16.320Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2026-01-05T12:12:16.323Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2026-01-05T12:12:16.337Z"}
+{"level":"info","message":"identity-service running on port: 3000","service":"identity-service","timestamp":"2026-01-06T18:59:18.287Z"}
+{"level":"info","message":"connected to mongoDb","service":"identity-service","timestamp":"2026-01-06T18:59:18.347Z"}
+{"level":"info","message":"Received  POST request to /api/auth/login","service":"identity-service","timestamp":"2026-01-06T19:01:08.440Z"}
+{"level":"info","message":"Request body : [object Object]","service":"identity-service","timestamp":"2026-01-06T19:01:08.442Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2026-01-06T19:01:08.497Z"}
